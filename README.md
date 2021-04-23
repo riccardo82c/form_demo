@@ -1,4 +1,5 @@
 # form_demo
+# Simple demo with Vue Form-Wizard
 
 ## Project setup
 ```
